@@ -1,0 +1,14 @@
+{
+"array":[
+    {
+        "id": 1,
+        "category": "men",
+        "price": 10000
+    },
+    {
+        "id": 1,
+        "category": "women",
+        "price": 103
+    }
+]
+}
